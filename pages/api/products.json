@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "balh",
+    "price": "0.01",
+    "image_url": "https://themiracle.love/logo.png",
+    "description": "love",
+    "filename": "Screenshot 2022-05-26 074506.png",
+    "hash": "Qmbpe3tZdpDrgtYJ8q2zevsw12B7kr41PDXCgAhFuqSNDq"
+  }
+]
